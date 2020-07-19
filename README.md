@@ -7,8 +7,8 @@ Violacion OCP | Solucion OCP
 
 Violacion ISP | Solucion ISP
 --- | ---
-![violacion del principio  ocp](/src/solid/isp/Violacion_ISP.jpeg) | ![solucion del principio ocp](/src/solid/isp/Solucion_ISP.jpeg)
+![violacion del principio  isp](/src/solid/isp/Violacion_ISP.jpeg) | ![solucion del principio isp](/src/solid/isp/Solucion_ISP.jpeg)
 
 Violacion ISP | Solucion ISP
 --- | ---
-![violacion del principio  ocp](/src/solid/dip/Violacion_DIP.jpeg) | ![solucion del principio ocp](/src/solid/dio/Solucion_DIP.jpeg)
+![violacion del principio  dip](/src/solid/dip/Violacion_DIP.jpeg) | ![solucion del principio dip](/src/solid/dip/Solucion_DIP.jpeg)
