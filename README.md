@@ -15,6 +15,6 @@ Violacion SRP | Solucion SRP
 
 Violacion LSP | Solucion LSP
 --- | ---
-![violacion del principio  lsp](/src/solid/dip/Violacion_Lsp.jpeg) | ![solucion del principio lsp](/src/solid/dip/Solucion_Lsp.jpeg)
+![violacion del principio  lsp](/src/solid/lsp/Violacion_Lsp.jpeg) | ![solucion del principio lsp](/src/solid/lsp/Solucion_Lsp.jpeg)
 
 
