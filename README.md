@@ -9,6 +9,10 @@ Violacion ISP | Solucion ISP
 --- | ---
 ![violacion del principio  isp](/src/solid/isp/Violacion_ISP.jpeg) | ![solucion del principio isp](/src/solid/isp/Solucion_ISP.jpeg)
 
+Violacion DIP | Solucion DIP
+--- | ---
+![violacion del principio dip](/src/solid/dip/Violacion_DIP.jpeg) | ![solucion del principio dip](/src/solid/dip/Solucion_DIP.jpeg)
+
 Violacion SRP | Solucion SRP
 --- | ---
 ![violacion del principio  srp](/src/solid/srp/Violacion_Srp.jpeg) | ![solucion del principio srp](/src/solid/srp/Solucion_Srp.jpeg)
